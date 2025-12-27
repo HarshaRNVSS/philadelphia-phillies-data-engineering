@@ -12,7 +12,7 @@ The pipeline is designed to be defensive against missing or malformed data, easy
 
 The complete source code for this project is available on GitHub:
 
-🔗 **[https://github.com/HarshaRNVSS/PhiladelphiaPhilliesProject](https://github.com/HarshaRNVSS/PhiladelphiaPhilliesProject)**
+🔗 **[https://github.com/HarshaRNVSS/philadelphia-phillies-data-engineering](https://github.com/HarshaRNVSS/philadelphia-phillies-data-engineering)**
 
 ## Project Structure
 
